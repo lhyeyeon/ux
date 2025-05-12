@@ -1,6 +1,8 @@
 
 # mz-repo (Monorepo Setup)
 
+테스트용도로 조금 수정 ***
+
 본 프로젝트는 [pnpm](https://pnpm.io/)과 [Turborepo](https://turbo.build/)를 기반으로 구성된 **Monorepo 개발 환경**입니다.  
 프론트엔드 앱은 Vite + Vue 3 기반으로 작성되며, 공통 UI 컴포넌트와 설정은 `packages/`에서 공유합니다.
 
